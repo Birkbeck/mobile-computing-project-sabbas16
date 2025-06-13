@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CulinaryCompanion</string>
+    <string name="title_activity_add_recipe">AddRecipeActivity</string>
+    <string name="title_activity_recipe_detail">RecipeDetailActivity</string>
+</resources>
